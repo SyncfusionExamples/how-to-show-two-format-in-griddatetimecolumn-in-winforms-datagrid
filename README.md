@@ -23,4 +23,4 @@ public class GridDateTimeCellRendererExt : GridDateTimeCellRenderer
 
 The following screenshot shows the two formats in `GridDateTimeColumn`,
 
-![DataGrid with two formats shows in DateTimeColumn](TwoFormatCell.png)
+![DataGrid with two formats shows in DateTimeColumn](twoformatcell.png)
